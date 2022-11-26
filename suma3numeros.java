@@ -20,3 +20,5 @@ public class SumaNumeros
         sum = n1 + n2 + n3;
 
         System.out.println( "La suma de " + n1 + " mas " + n2 + " y mas " + n3 + " es " + sum + "." );
+    }
+}
